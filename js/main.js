@@ -1,0 +1,1 @@
+document.load(alert("it works"));
